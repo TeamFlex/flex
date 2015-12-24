@@ -6,11 +6,13 @@ bacon | akhilnarang
 
 bullhead | akhilnarang
 
+hammerhad | vikrantarya699
+
 lettuce | ace312
 
-sprout4 | 
+sprout4 | bun_bun
 
-sprout8 | 
+sprout8 | bun_bun
 
 tomato | DC07
 
