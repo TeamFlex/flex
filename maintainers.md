@@ -3,4 +3,6 @@ Akhil Narang <something@akhilnarang.xyz>
 
 Aniruddh Chandratre <aniruddh.chandratre@gmail.com>
 
+Alectradar <gokulbalram@gmail.com>
+
 DC07 <deveshnegi.3105.dn@gmail.com>
