@@ -10,3 +10,4 @@ Maintainers/Developers:
 * __Arnav Gosain__: <arn4v@outlook.com>
 * __NitinC1438__: <nitinc1438@gmail.com>
 * __Fabio-San__: <fabietto089@gmail.com>
+* __darjwx__: <darjwx@gmail.com>

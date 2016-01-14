@@ -10,6 +10,8 @@ cancro | "Yagami Raito | KIRA"
 
 hammerhad | vikrantarya699
 
+huashan | darjwx
+
 i9300 | Gokulbalram
 
 lettuce | ace312, arn4v
