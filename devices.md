@@ -6,6 +6,8 @@ bacon | akhilnarang
 
 bullhead | akhilnarang
 
+condor | zeeshanhussain
+
 hammerhad | vikrantarya699
 
 i9300 | Gokulbalram
@@ -19,3 +21,6 @@ tomato | DC07, arn4v
 titan | arn4v
 
 onyx | fabiosan
+
+
+
