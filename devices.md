@@ -6,6 +6,8 @@ bacon | akhilnarang
 
 bullhead | akhilnarang
 
+cancro | "Yagami Raito | KIRA"
+
 hammerhad | vikrantarya699
 
 i9300 | Gokulbalram
