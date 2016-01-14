@@ -10,11 +10,12 @@ hammerhad | vikrantarya699
 
 i9300 | Gokulbalram
 
-lettuce | ace312
+lettuce | ace312, arn4v
 
-sprout4 | bun_bun
+sprout4, sprout8 | bun_bun, arn4v
 
-sprout8 | bun_bun
+tomato | DC07, arn4v
 
-tomato | DC07
+titan | arn4v
 
+onyx | fabiosan
