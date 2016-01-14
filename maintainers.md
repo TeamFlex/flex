@@ -9,3 +9,4 @@ Maintainers/Developers:
 * __DC07__: <deveshnegi.3105.dn@gmail.com>
 * __Arnav Gosain__: <arn4v@outlook.com>
 * __NitinC1438__: <nitinc1438@gmail.com>
+* __Fabio-San__: <fabietto089@gmail.com>
