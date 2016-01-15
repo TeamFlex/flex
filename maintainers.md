@@ -12,4 +12,8 @@ Maintainers/Developers:
 * __Fabio-San__: <fabietto089@gmail.com>
 * __BunBun__: <bunbunteh420@gmail.com>
 * __Zeeshan Hussain__: <zeeshanhussain12@gmail.com>
+* __Fabio-San__: <fabietto089@gmail.com>
+* __Yagami Raito | KIRA__: <nealgosalia@gmail.com>
+* __darjwx__: <darjwx@gmail.com>
+
 
