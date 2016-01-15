@@ -11,3 +11,5 @@ Maintainers/Developers:
 * __NitinC1438__: <nitinc1438@gmail.com>
 * __Fabio-San__: <fabietto089@gmail.com>
 * __BunBun__: <bunbunteh420@gmail.com>
+* __Zeeshan Hussain__: <zeeshanhussain12@gmail.com>
+
