@@ -15,3 +15,4 @@ Maintainers/Developers:
 * __Fabio-San__: <fabietto089@gmail.com>
 * __Yagami Raito | KIRA__: <nealgosalia@gmail.com>
 * __darjwx__: <darjwx@gmail.com>
+* __Shubham Gajra__: <shubhmgajra@gmail.com>
