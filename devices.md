@@ -22,7 +22,7 @@ sprout4, sprout8 | bun_bun, arn4v
 
 tomato | DC07, arn4v
 
-titan | arn4v
+titan | ishubhamsingh
 
 onyx | fabiosan
 
